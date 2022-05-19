@@ -1,8 +1,10 @@
 Hi there, 
 
-I'm Nico. My focus goes to **action-oriented functional design**, along with **aesthetic information presentations**.  
+I'm Nico. My focus goes to **action-oriented functional design**, in **aesthetic information presentations**.  
 
-I'm mostly a *web craftsman* my main tools are Laravel, MySQL, Tailwind CSS, AlpineJS... I'm also *teaching* and *training* on these topics.
+I'm mostly a *web craftsman* my main tools are [Laravel](https://laravel.com), [MySQL](https://www.mysql.com/), [Tailwind CSS](https://tailwindcss.com/), [AlpineJS](https://alpinejs.dev/)... 
+
+I'm also *teaching* and *training* on these topics.
 
 Find out more about me on [bluepundit.eu](https://bluepundit.eu)
 
